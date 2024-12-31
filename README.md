@@ -1,4 +1,4 @@
 -  Hi, I’m Andreas Siebel, Computer Science Teacher in Germany
 - 👀 I’m interested in Python Education
-- I am interested in people who want to try the miniworldmaker 2D engine and/or collaborate with me.
-- 📫 Write me at a.siebel@mailbox.org
+- I am interested in people who want to try the miniworlds 2D engine and/or collaborate with me.
+- 📫 Write me at andreas.siebel@it-teaching.de
